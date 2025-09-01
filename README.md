@@ -10,7 +10,6 @@ For each incorrect guess, a part of the hangman figure is drawn. The game ends w
 ## ✨ Features
 
 - Random word selection from a predefined list
-- ASCII art for hangman stages
 - Input validation and user-friendly prompts
 - Game restart option
 - Clean and readable code structure
@@ -23,3 +22,4 @@ For each incorrect guess, a part of the hangman figure is drawn. The game ends w
 
 1. Clone the repository:
    git clone https://github.com/HaytamNaimi/CodeAlpha_HangmanGame.git
+
